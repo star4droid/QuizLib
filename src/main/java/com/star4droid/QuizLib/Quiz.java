@@ -64,4 +64,4 @@ public class Quiz {
 		if(con.equals("")) return "";
 		return op(key)+con+ed(key);
 	}
-  
+}
